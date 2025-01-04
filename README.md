@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently pursuing **my Bachelor in Computer Science and Engineering**
 
-- 🌱 I’m currently learning **App Developement**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya0150/Aditya0150](https://github.com/Aditya0150/Aditya0150)
 
