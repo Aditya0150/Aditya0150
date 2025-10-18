@@ -2,7 +2,7 @@
 <h3 align="center">A passionate WebDeveloper from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m Completed **my Bachelor in Computer Science and Engineering**
+- 🔭 I completed **my Bachelor's in Computer Science and Engineering**
 
 - 🌱 I’m currently learning **Mern Stack**
 
