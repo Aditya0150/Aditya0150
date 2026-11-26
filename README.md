@@ -20,7 +20,7 @@ I build responsive, user-friendly web experiences, from Shopify storefronts to R
 ### Signal Studio
 **Independent Concept Project** · Interactive creative-agency homepage concept focused on editorial visual design, responsive layouts, and intentional motion. This is a personal concept project, not client work.
 
-[![Live project](https://img.shields.io/badge/Live%20Project-FF6F2D?style=for-the-badge&logo=vercel&logoColor=white)](https://signal-studio-concept.vercel.app)
+[![Live project](https://img.shields.io/badge/Live%20Project-FF6F2D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://signal-studio-concept.vercel.app)
 [![Case study](https://img.shields.io/badge/Case%20Study-Read-25232A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://portfolio-psi-three-30.vercel.app/projects/signal-studio)
 
 **Stack:** React · Vite · JavaScript · Tailwind CSS · CSS animations · Intersection Observer · Lucide React · React Icons
@@ -28,7 +28,7 @@ I build responsive, user-friendly web experiences, from Shopify storefronts to R
 ### Off Beat Himalaya
 A trekking website for exploring and booking trek plans across the Himalayas.
 
-[![Live project](https://img.shields.io/badge/Live%20Project-FF6F2D?style=for-the-badge&logo=vercel&logoColor=white)](https://offbeat-himalaya.vercel.app)
+[![Live project](https://img.shields.io/badge/Live%20Project-FF6F2D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://offbeat-himalaya.vercel.app)
 [![Case study](https://img.shields.io/badge/Case%20Study-Read-25232A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://portfolio-psi-three-30.vercel.app/projects/offbeat-himalaya)
 
 **Stack:** React · JavaScript · CSS
